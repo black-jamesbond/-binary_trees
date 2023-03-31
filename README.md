@@ -8,4 +8,4 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 * Tested on Ubuntu 20.04 LTS
 
 ## Author
-* shedu kingdavid   - [Mikiyas](https://github.com/black-jamesbond/)
+* shedu kingdavid   - [kingdavid](https://github.com/black-jamesbond/)
